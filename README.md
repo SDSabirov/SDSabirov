@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I live in London for last  11 years. <br>I can help to build web applications using  Django and Djangor Rest Framework. So far, I'm  pretty comfortable with languages like: C/C++, Python and JavaScript.<br>Also I'm trying to level up my frontend stack , and will be focused using Vue.js.</p>
+<p align="left">I'm based in London. <br>I can help to build web applications using  Django and Djangor Rest Framework. So far, I'm  pretty comfortable with languages like: C/C++, Python and JavaScript.<br>Also I'm trying to level up my frontend stack , and will be focused using Vue.js.</p>
 
 ###
 
