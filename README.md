@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm based in London. <br>I can help to build web applications using  Django and Djangor Rest Framework. So far, I'm  pretty comfortable with languages like: C/C++, Python and JavaScript.<br>Also I'm trying to level up my frontend stack , and will be focused using Vue.js.</p>
+<p align="left">🚀 Passionate about crafting robust and scalable web applications. My tech stack includes Django on the backend for building powerful and efficient server-side applications, complemented by moderate knowledge of frontend technologies, like React.js and Vue.js for creating dynamic and responsive user interfaces..</p>
 
 ###
 
