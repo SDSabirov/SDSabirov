@@ -23,8 +23,11 @@ I'm a full-stack developer focused on building web applications that are scalabl
 ---
 
 ## 📈 Stats & Contributions
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidmurod&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SDSabirov&theme=tokyonight&hide_border=false)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SDSabirov&theme=tokyo-night)
 
 ---
 
