@@ -31,8 +31,8 @@ I'm a full-stack developer focused on building web applications that are scalabl
 ## 🤝 Let's Connect
 
 - Portfolio: _Coming soon_  
-- LinkedIn: [linkedin.com/in/saidmurod](https://linkedin.com/in/saidmurod)  
-- Email: `saidmurod.dev [at] gmail.com`
+- LinkedIn: [linkedin.com/in/said]([https://linkedin.com/in/saidmurod](https://www.linkedin.com/in/said-sabirov-00746b99/))  
+- Email: `sabir.dev7 [at] gmail.com`
 
 ---
 
